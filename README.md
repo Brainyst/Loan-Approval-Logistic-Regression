@@ -53,6 +53,6 @@ The project requires Python 3.x and the following libraries (specified in requir
 
 ## Output
 
-• Model Accuracy: Displays the accuracy score of the model.
+• Model Accuracy: Displays the accuracy score of the model.<br>
 • Confusion Matrix: Visualizes the confusion matrix for a detailed view of the model’s performance.
    
