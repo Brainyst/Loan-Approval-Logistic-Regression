@@ -23,17 +23,6 @@ The analysis and modeling workflow includes the following steps:
    - Calculating the model accuracy and creating a confusion matrix to evaluate performance.
 7. **Conclusion**:
    - The model achieved an accuracy of 84%, successfully predicting loan approvals. The confusion matrix shows instances of true positives, false positives, true negatives, and false negatives.
-
-## Installation
-
-1. Clone the repository:
-   
-   git clone https://github.com/Brainyst/loan-approval-prediction.git <br>
-   cd loan-approval-prediction
-   
-2. Install the required libraries:
-
-   pip install -r requirements.txt
    
 ## Requirements
 
